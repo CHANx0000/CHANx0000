@@ -107,7 +107,7 @@ I encourage you to explore my AI/ML and software engineering projects. The links
 
    📫 **Email:** **[chanakyak577@gmail.com](mailto:chanakyak577@gmail.com)**
 
-   🖇 **LinkedIn:** **[linkedin.com/in/chanakya-reddy-katipally](https://www.linkedin.com/in/chanakya-reddy-katipally/)**
+   🖇 **LinkedIn:** **[linkedin.com/in/chanakya-katipally](https://www.linkedin.com/in/chanakya-reddy-katipally/)**
 
    💻 **GitHub:** **[github.com/CHANx0000](https://github.com/CHANx0000)**
 
