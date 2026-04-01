@@ -1,6 +1,6 @@
 # Hi there, I'm Chanakya Reddy Katipally 👋
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanakya-katipally/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanakya-reddy-katipally/)
 [![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHANx0000)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanakyak577@gmail.com)
 
@@ -79,11 +79,11 @@ I encourage you to explore my AI/ML and software engineering projects. The links
 
 ## 🖥 My Work Experience
 
-   🏢👨‍💻 [**AI/ML Engineer**](https://github.com/CHANx0000/KKR-GenAI-AI-Engineer) | [**KKR GenAI Innovations LLC**](https://github.com/CHANx0000/KKR-GenAI-AI-Engineer) *[January 2026 – Present]*
+   🏢👨‍💻 [**AI/ML Engineer**](https://github.com/CHANx0000/KKR-GenAI-AI_Engineer) | [**KKR GenAI Innovations LLC**](https://github.com/CHANx0000/KKR-GenAI-AI_Engineer) *[January 2026 – Present]*
 
-   🧪👨‍🔬 [**Research Assistant — AI Labs**](https://github.com/CHANx0000/SIUC-Research-Assistant-AI-Labs) | [**Southern Illinois University Carbondale**](https://www.siu.edu/) *[January 2024 – December 2025]*
+   🧪👨‍🔬 [**Research Assistant — AI Labs**](https://github.com/CHANx0000/Research-Assistant-AI-Labs-Southern-Illinois-University-Carbondale) | [**Southern Illinois University Carbondale**](https://www.siu.edu/) *[January 2024 – December 2025]*
 
-   🏢👨‍💻 [**Software Engineer**](https://github.com/CHANx0000/Brane-Enterprises-Software-Engineer) | [**Brane Enterprises Private Limited**](https://github.com/CHANx0000/Brane-Enterprises-Software-Engineer) *[January 2022 – August 2023]*
+   🏢👨‍💻 [**Software Engineer**](https://github.com/CHANx0000/Software-Engineer-Brane-Enterprises-Private-Limited) | [**Brane Enterprises Private Limited**](https://github.com/CHANx0000/Software-Engineer-Brane-Enterprises-Private-Limited) *[January 2022 – August 2023]*
 
    💻🧑‍💻 **Software Engineer Intern** | **Intellectuals AI** *[January 2021 – December 2021]*
 
@@ -107,7 +107,7 @@ I encourage you to explore my AI/ML and software engineering projects. The links
 
    📫 **Email:** **[chanakyak577@gmail.com](mailto:chanakyak577@gmail.com)**
 
-   🖇 **LinkedIn:** **[linkedin.com/in/chanakya-katipally](https://www.linkedin.com/in/chanakya-reddy-katipally/)**
+   🖇 **LinkedIn:** **[linkedin.com/in/chanakya-reddy-katipally](https://www.linkedin.com/in/chanakya-reddy-katipally/)**
 
    💻 **GitHub:** **[github.com/CHANx0000](https://github.com/CHANx0000)**
 
